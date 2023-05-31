@@ -5,7 +5,9 @@ public extension View {
 
     // Border Radius
 
-    func borderBorderRadiusButtonBorderRadius() -> some View {
-        return self.cornerRadius(15) 
+    // border
+
+    func borderBorderRadiusborderRadius() -> some View {
+        return self.cornerRadius(40) 
     }
 }
